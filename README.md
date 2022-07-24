@@ -1,2 +1,2 @@
-# HorizonTechnolyTest
+# HorizonTechnologyTest
 Stellar
