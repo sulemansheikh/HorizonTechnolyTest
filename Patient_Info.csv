@@ -1,0 +1,11 @@
+Patient_ID,Patient_Name,Patient_Gender,Patient_Phone,Province,Created_at
+1,Ali,M,12507384957,Ontario,7/4/2022
+2,Salima,F,12506482904,British Columbia,7/6/2022
+3,Ahmed,M,12507483947,Ontario,7/6/2022
+4,Sania,F,12502748001,Ontario,7/7/2022
+5,Sana,F,12505832224,Ontario,7/8/2022
+6,Imran,M,12505099922,British Columbia,7/12/2022
+7,Rizwan,M,12505992244,Ontarioo,8/12/2022
+8,Sara,F,12505992343,Ontario,8/12/2022
+9,Alisha,F,12505998573,British Columbia,8/13/2022
+10,Yaseem,F,12505998239,British Columbia,8/14/2022
